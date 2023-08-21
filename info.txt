@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 this is experiment 2
-today is monday
+today is mondaay
+helllo world
+>>>>>>> b1
+
+
+
+
+`
